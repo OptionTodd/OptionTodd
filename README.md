@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OptionTodd
-- 👀 I’m interested in cryptocurrencies
+- 👀 I’m interested in smart contracts
 - 🌱 I’m currently learning how to use git hub
-- 💞️ I’m looking for some advice on How to submit an entry to the registry on the Cardano Token Registry
+- 💞️ I’m looking for some advice on How to construct smart contracts with blockly
 - 📫 How to reach me toddelewis@comcast.net
 
 <!---
